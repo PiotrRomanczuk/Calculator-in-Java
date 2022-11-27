@@ -1,0 +1,15 @@
+package onlineShop.exceptions;
+
+public class MinimumOrderValueNegativeException extends Exception{
+	
+
+	//The standard constructor
+	public MinimumOrderValueNegativeException(){
+		super("The minimum order value is negative!");
+	}
+	
+	//Overloaded constructor
+	public MinimumOrderValueNegativeException(String errorMessage){
+		super(errorMessage);
+	}
+}//class

@@ -1,0 +1,16 @@
+package main;
+
+import interfaces.Vehicle;
+import transport.Bus;
+import transport.Car;
+
+public class MainClass01 {
+
+	public static void main(String[] args) {
+		Vehicle vehicle01 = new Car();
+		Vehicle vehicle02 = new Bus();
+		//Vehicle vehicle03 = new Truck();
+		
+	}//main
+
+}//class

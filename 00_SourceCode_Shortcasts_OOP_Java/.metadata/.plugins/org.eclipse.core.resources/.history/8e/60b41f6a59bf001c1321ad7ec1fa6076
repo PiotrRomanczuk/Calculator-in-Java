@@ -1,0 +1,10 @@
+package onlineShop.administration;
+
+public class CustomerAdministration {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

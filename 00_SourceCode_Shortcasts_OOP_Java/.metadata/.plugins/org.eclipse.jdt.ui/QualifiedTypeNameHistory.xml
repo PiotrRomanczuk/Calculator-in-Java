@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="package01.ShoppingCart01"/>
+    <fullyQualifiedTypeName name="products.Game"/>
+    <fullyQualifiedTypeName name="products.MusicProduct"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="products.Book"/>
+    <fullyQualifiedTypeName name="products.NonFictionBook"/>
+    <fullyQualifiedTypeName name="products.Product"/>
+    <fullyQualifiedTypeName name="onlineShop.processing.ShoppingCart"/>
+    <fullyQualifiedTypeName name="onlineShop.users.PremiumCustomer"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="onlineShop.exceptions.MinimumOrderValueNegativeException"/>
+    <fullyQualifiedTypeName name="transport.Car"/>
+    <fullyQualifiedTypeName name="transport.Bus"/>
+    <fullyQualifiedTypeName name="transport.Truck"/>
+    <fullyQualifiedTypeName name="interfaces.Vehicle"/>
+    <fullyQualifiedTypeName name="interfaces.Move"/>
+    <fullyQualifiedTypeName name="onlineShop.users.Customer"/>
+    <fullyQualifiedTypeName name="onlineShop.administration.CustomerAdministration"/>
+    <fullyQualifiedTypeName name="onlineShop.interfaces.ICustomerStorage"/>
+    <fullyQualifiedTypeName name="onlineShop.storage.DBCustomerStorage"/>
+    <fullyQualifiedTypeName name="onlineShop.storage.LocalStorage"/>
+    <fullyQualifiedTypeName name="onlineShop.storage.BackupToCloudStorage"/>
+</qualifiedTypeNameHistroy>
