@@ -1,7 +1,0 @@
-package transport;
-
-public class Truck {
-	
-	
-	//System.out.println("I am a Truck, and I HOOOOONK");	
-}//class

@@ -1,5 +1,0 @@
-package onlineShop.interfaces;
-
-public interface ICustomerStorage {
-
-}

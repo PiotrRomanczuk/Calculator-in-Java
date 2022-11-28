@@ -1,0 +1,23 @@
+Unit 3:
+
+    - In src there is a package1 folder included 2 files - Customer and OnlineShop
+        
+            - Customer.java
+
+            package = package1
+
+            - Customer has attributes set as a private all of them are Strings, but the ain't have to be like that.
+            - Attribute - Strings - lastname, firstname, sex, birthdate
+            - Getters and setter for attributes 
+                - Why there is a void for setters
+                    this.attribute = attribute
+
+            - OnlineShop.java
+
+            package = package1
+
+            - Generated an object Customer from Customer object
+                ?? Customer customer = new Customer()
+
+            - Invocation of setters methods on the object customer
+            - 

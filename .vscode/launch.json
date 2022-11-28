@@ -1,0 +1,315 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Customer",
+            "request": "launch",
+            "mainClass": "package01.Customer",
+            "projectName": "Unit3_4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass01",
+            "request": "launch",
+            "mainClass": "package01.MainClass01",
+            "projectName": "Unit3_4"
+        },
+        {
+            "type": "java",
+            "name": "Launch OnlineShop",
+            "request": "launch",
+            "mainClass": "package01.OnlineShop",
+            "projectName": "Unit3_5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass01(1)",
+            "request": "launch",
+            "mainClass": "package01.MainClass01",
+            "projectName": "Unit4_2"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass01(2)",
+            "request": "launch",
+            "mainClass": "package01.MainClass01",
+            "projectName": "Unit4_3"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass02",
+            "request": "launch",
+            "mainClass": "package01.MainClass02",
+            "projectName": "Unit4_3"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass01(3)",
+            "request": "launch",
+            "mainClass": "package02.MainClass01",
+            "projectName": "Unit4_3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShoppingCart01",
+            "request": "launch",
+            "mainClass": "package01.ShoppingCart01",
+            "projectName": "Unit4_4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShoppingCart02",
+            "request": "launch",
+            "mainClass": "package01.ShoppingCart02",
+            "projectName": "Unit4_4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShoppingCart03",
+            "request": "launch",
+            "mainClass": "package01.ShoppingCart03",
+            "projectName": "Unit4_4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass01(4)",
+            "request": "launch",
+            "mainClass": "package02.MainClass01",
+            "projectName": "Unit4_4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass01(5)",
+            "request": "launch",
+            "mainClass": "package03.MainClass01",
+            "projectName": "Unit4_4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass",
+            "request": "launch",
+            "mainClass": "onlineShop.MainClass",
+            "projectName": "Unit4_5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book",
+            "request": "launch",
+            "mainClass": "onlineShop.products.Book",
+            "projectName": "Unit4_5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass01(6)",
+            "request": "launch",
+            "mainClass": "products.MainClass01",
+            "projectName": "Unit5_2_video502"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass01(7)",
+            "request": "launch",
+            "mainClass": "main.MainClass01",
+            "projectName": "Unit5_2_video503"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass02(1)",
+            "request": "launch",
+            "mainClass": "main.MainClass02",
+            "projectName": "Unit5_2_video503"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass01(8)",
+            "request": "launch",
+            "mainClass": "main.MainClass01",
+            "projectName": "Unit5_2_video504"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass02(2)",
+            "request": "launch",
+            "mainClass": "main.MainClass02",
+            "projectName": "Unit5_2_video504"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass01(9)",
+            "request": "launch",
+            "mainClass": "main.MainClass01",
+            "projectName": "Unit5_2_video505"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass01(10)",
+            "request": "launch",
+            "mainClass": "main.MainClass01",
+            "projectName": "Unit6_1"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass01(11)",
+            "request": "launch",
+            "mainClass": "main.MainClass01",
+            "projectName": "Unit6_2"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass01(12)",
+            "request": "launch",
+            "mainClass": "main.MainClass01",
+            "projectName": "Unit6_3"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass02(3)",
+            "request": "launch",
+            "mainClass": "main.MainClass02",
+            "projectName": "Unit6_3"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass(1)",
+            "request": "launch",
+            "mainClass": "onlineShop.MainClass",
+            "projectName": "Unit7_1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book(1)",
+            "request": "launch",
+            "mainClass": "onlineShop.products.Book",
+            "projectName": "Unit7_1"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass(2)",
+            "request": "launch",
+            "mainClass": "onlineShop.MainClass",
+            "projectName": "Unit7_2_video702"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book(2)",
+            "request": "launch",
+            "mainClass": "onlineShop.products.Book",
+            "projectName": "Unit7_2_video702"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass(3)",
+            "request": "launch",
+            "mainClass": "onlineShop.MainClass",
+            "projectName": "Unit7_2_video703"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book(3)",
+            "request": "launch",
+            "mainClass": "onlineShop.products.Book",
+            "projectName": "Unit7_2_video703"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass(4)",
+            "request": "launch",
+            "mainClass": "onlineShop.MainClass",
+            "projectName": "Unit7_3_video704"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book(4)",
+            "request": "launch",
+            "mainClass": "onlineShop.products.Book",
+            "projectName": "Unit7_3_video704"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass(5)",
+            "request": "launch",
+            "mainClass": "onlineShop.MainClass",
+            "projectName": "Unit8_1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book(5)",
+            "request": "launch",
+            "mainClass": "onlineShop.products.Book",
+            "projectName": "Unit8_1"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass(6)",
+            "request": "launch",
+            "mainClass": "onlineShop.MainClass",
+            "projectName": "Unit8_2_video802"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book(6)",
+            "request": "launch",
+            "mainClass": "onlineShop.products.Book",
+            "projectName": "Unit8_2_video802"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass(7)",
+            "request": "launch",
+            "mainClass": "onlineShop.MainClass",
+            "projectName": "Unit8_2_video803"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book(7)",
+            "request": "launch",
+            "mainClass": "onlineShop.products.Book",
+            "projectName": "Unit8_2_video803"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass(8)",
+            "request": "launch",
+            "mainClass": "onlineShop.MainClass",
+            "projectName": "Unit8_3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book(8)",
+            "request": "launch",
+            "mainClass": "onlineShop.products.Book",
+            "projectName": "Unit8_3"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass01(13)",
+            "request": "launch",
+            "mainClass": "main.MainClass01",
+            "projectName": "Unit9_1"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomerAdministration",
+            "request": "launch",
+            "mainClass": "onlineShop.administration.CustomerAdministration",
+            "projectName": "Unit9_2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book(9)",
+            "request": "launch",
+            "mainClass": "onlineShop.products.Book",
+            "projectName": "Unit9_2"
+        }
+    ]
+}

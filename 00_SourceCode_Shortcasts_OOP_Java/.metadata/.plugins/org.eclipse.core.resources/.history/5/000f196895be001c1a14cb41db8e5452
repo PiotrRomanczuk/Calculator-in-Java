@@ -1,5 +1,0 @@
-package onlineShop.exceptions;
-
-public class MinimumOrderValueNegativeException {
-
-}

@@ -1,0 +1,12 @@
+package transport;
+
+import interfaces.Vehicle;
+
+public class Bus implements Vehicle {
+
+	@Override
+	public void honk() {
+		System.out.println("I am a Car, and I honk honk honk");	
+	}//honk
+
+}//class

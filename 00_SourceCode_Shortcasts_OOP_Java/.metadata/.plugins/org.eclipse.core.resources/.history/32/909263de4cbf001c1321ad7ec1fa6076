@@ -1,7 +1,0 @@
-package transport;
-
-import interfaces.Vehicle;
-
-public class Car implements Vehicle{
-
-}

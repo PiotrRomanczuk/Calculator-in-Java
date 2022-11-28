@@ -1,0 +1,44 @@
+package onlineShop.users;
+
+public class Customer {
+	//attributes
+	private String lastName;
+	private String firstName;
+	private String birthdate;
+	private String sex;
+	private double minimumOrderValue;
+	private ShoppingCart shoppingCart;
+	
+	//getters and setters
+	public String getLastName() {
+		return lastName;
+	}
+	
+	public void setLastName(String lastName) {
+		this.lastName = lastName;
+	}
+	
+	public String getFirstName() {
+		return firstName;
+	}
+	
+	public void setFirstName(String firstName) {
+		this.firstName = firstName;
+	}
+	
+	public String getBirthdate() {
+		return birthdate;
+	}
+	
+	public void setBirthdate(String birthdate) {
+		this.birthdate = birthdate;
+	}
+	public String getSex() {
+		return sex;
+	}
+	
+	public void setSex(String sex) {
+		this.sex = sex;
+	}
+	
+}//class

@@ -1,0 +1,38 @@
+package onlineShop.administration;
+
+import onlineShop.interfaces.ICustomerStorage;
+import onlineShop.storage.BackupToCloudStorage;
+import onlineShop.storage.DBCustomerStorage;
+import onlineShop.storage.LocalStorage;
+import onlineShop.users.Customer;
+
+public class CustomerAdministration {
+	
+	//attributes
+	private Customer k1;
+	private Customer k2;
+	private ICustomerStorage customerStorage;
+	
+	//methods
+	public void updateAllCustomers(){
+		this.customerStorage.update(k1);
+		this.customerStorage.update(k2);
+	}
+	
+	
+	public static void main(String[] args) {
+		CustomerAdministration myAdministration = new CustomerAdministration();
+		
+		ICustomerStorage dbStorage = new DBCustomerStorage();
+		ICustomerStorage localStorage = new LocalStorage();
+		ICustomerStorage backupToCloudStorage = new BackupToCloudStorage();
+		
+		//myAdministration.customerStorage = dbStorage;
+		//myAdministration.customerStorage = localStorage;
+		myAdministration.customerStorage = backupToCloudStorage;
+		
+		myAdministration.updateAllCustomers();
+		
+	}//main
+
+}//class
