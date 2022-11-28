@@ -1,5 +1,5 @@
 public class Customer {
-    public static void Customer (String[] args) {
+    public void customer (String[] args) {
         
     }
 }
