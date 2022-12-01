@@ -20,4 +20,26 @@ Unit 3:
                 ?? Customer customer = new Customer()
 
             - Invocation of setters methods on the object customer
-            - 
+            - SystemOut.println of setters on those objects.
+
+
+
+Unit 4:
+
+    - In src there is a package "onlineShop" which contains:
+        - MainClass.java
+        - Folder processing:
+            - Order.java
+            - ShoppingCart.java
+                - Both of those classes are empty.
+        - Folder products:
+            In this folder there is 2 types of classes. 
+            First one is a class "Product":
+                -
+
+            the rest of them are the product types, which inheritance from the clas "Product. -
+                - Book
+                - CD
+                - Film
+                - Game
+        - Folder users:
